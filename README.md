@@ -42,6 +42,7 @@ This repository offers a comprehensive collection of RAG modules, tools, chatbot
 - **[Khoj](https://github.com/khoj-ai/khoj)**: Use AI as your second brain, available locally or in the cloud, across different platforms like Obsidian, Emacs, or WhatsApp.
 - **[Kotaemon](https://github.com/Cinnamon/kotaemon)**: A tool for chatting with your documents, powered by RAG.
 - **[Vanna](https://github.com/vanna-ai/vanna)**: Use RAG to chat with your SQL database for accurate text-to-SQL generation.
+- **[MemGPT](https://github.com/cpacker/MemGPT)**: Create LLM agents with long-term memory and custom tools
 - **[Verba](https://github.com/weaviate/Verba)**: A Weaviate-powered RAG chatbot.
 - **[RagApp](https://github.com/ragapp/ragapp)**: Simplify agentic RAG usage in enterprise applications.
 - **[Rags](https://github.com/run-llama/rags)**: Build a ChatGPT-like interface for interacting with your own data.
