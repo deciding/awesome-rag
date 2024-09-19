@@ -13,6 +13,11 @@ This repository offers a comprehensive collection of RAG modules, tools, chatbot
 ### Memory
 - **[Mem0](https://github.com/mem0ai/mem0)**: A memory layer designed for AI apps, enabling context retention over extended interactions.
 
+### Techniques
+#### 2024
+- **[AdaptiveRag](https://github.com/starsuzi/Adaptive-RAG)**: "Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity" (NAACL 2024).
+- **[SelfRag](https://github.com/AkariAsai/self-rag)**: SELF-RAG: Learning to Retrieve, Generate and Critique through self-reflection (ICLR 2024, Oral top 1%) by Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, and Hannaneh Hajishirzi.
+
 ### Tools
 - **[RAGFlow](https://github.com/infiniflow/ragflow)**: A deep document understanding engine to enhance RAG.
 - **[Flowise](https://github.com/FlowiseAI/Flowise)**: A drag-and-drop UI for building customized LLM workflows.
