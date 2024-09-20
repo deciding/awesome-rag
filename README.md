@@ -1,4 +1,4 @@
-# Awesome-RAG  
+# Awesome-RAG  (2024)
 *A Curated List of LLM-Aided Tools with Retrieval Augmented Generation (RAG)*
 
 This repository offers a comprehensive collection of RAG modules, tools, chatbots, and tutorials. Explore various resources to help you integrate Retrieval-Augmented Generation into your AI projects.
