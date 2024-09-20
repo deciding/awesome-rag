@@ -5,26 +5,6 @@ This repository offers a comprehensive collection of RAG modules, tools, chatbot
 
 ---
 
-## 📦 RAG Modules
-
-### Graph RAG
-- **[GraphRAG](https://github.com/microsoft/graphrag)**: A graph-based approach to Retrieval-Augmented Generation.
-
-### Memory
-- **[Mem0](https://github.com/mem0ai/mem0)**: A memory layer designed for AI apps, enabling context retention over extended interactions.
-
-### Techniques
-#### 2024
-- **[AdaptiveRag](https://github.com/starsuzi/Adaptive-RAG)**: "Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity" (NAACL 2024).
-- **[SelfRag](https://github.com/AkariAsai/self-rag)**: SELF-RAG: Learning to Retrieve, Generate and Critique through self-reflection (ICLR 2024, Oral top 1%) by Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, and Hannaneh Hajishirzi.
-
-### Tools
-- **[RAGFlow](https://github.com/infiniflow/ragflow)**: A deep document understanding engine to enhance RAG.
-- **[Flowise](https://github.com/FlowiseAI/Flowise)**: A drag-and-drop UI for building customized LLM workflows.
-- **[FireCrawl](https://github.com/mendableai/firecrawl)**: Easily convert entire websites into LLM-ready markdown or structured data with a single API.
-
----
-
 ## 💬 RAG Chatbots
 
 ### All-in-One Solutions
@@ -49,6 +29,33 @@ This repository offers a comprehensive collection of RAG modules, tools, chatbot
 - **[RAG with PDF](https://github.com/pymupdf/RAG)**: A specialized RAG tool for PDF document interaction.
 
 ---
+
+## 📦 RAG Modules
+
+### Techniques
+#### 2024
+- **[AdaptiveRag](https://github.com/starsuzi/Adaptive-RAG)**: "Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity" (NAACL 2024).
+- **[SelfRag](https://github.com/AkariAsai/self-rag)**: SELF-RAG: Learning to Retrieve, Generate and Critique through self-reflection (ICLR 2024, Oral top 1%) by Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, and Hannaneh Hajishirzi.
+
+
+### Graph RAG
+- **[GraphRAG](https://github.com/microsoft/graphrag)**: A graph-based approach to Retrieval-Augmented Generation.
+
+### Memory
+- **[Mem0](https://github.com/mem0ai/mem0)**: A memory layer designed for AI apps, enabling context retention over extended interactions.
+
+### Chunking
+- **[Chunking methods](https://www.rungalileo.io/blog/mastering-rag-advanced-chunking-techniques-for-llm-applications)**: Text splitter, character splitter, semantic splitters etc.
+- **[Propositional Chunking](https://github.com/chentong0/factoid-wiki)**: trained on wiki.
+
+
+### Tools
+- **[RAGFlow](https://github.com/infiniflow/ragflow)**: A deep document understanding engine to enhance RAG.
+- **[Flowise](https://github.com/FlowiseAI/Flowise)**: A drag-and-drop UI for building customized LLM workflows.
+- **[FireCrawl](https://github.com/mendableai/firecrawl)**: Easily convert entire websites into LLM-ready markdown or structured data with a single API.
+
+---
+
 
 ## 📚 RAG Tutorials
 
