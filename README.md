@@ -43,6 +43,7 @@ This repository offers a comprehensive collection of RAG modules, tools, chatbot
 
 ### Memory
 - **[Mem0](https://github.com/mem0ai/mem0)**: A memory layer designed for AI apps, enabling context retention over extended interactions.
+- **[su-memory](https://github.com/su-memory/su-memory-sdk)**: Open-source memory engine for AI agents with causal reasoning, temporal awareness, and spatial cognition. Not just similarity search - supports true multi-hop inference.
 
 ### Chunking
 - **[Chunking methods](https://www.rungalileo.io/blog/mastering-rag-advanced-chunking-techniques-for-llm-applications)**: Text splitter, character splitter, semantic splitters etc.
